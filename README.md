@@ -22,7 +22,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/www.linkedin.com/in/mahadev-athani-6661b3288" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/mahadev-athani-6661b3288" height="30" width="40" /></a>
 <a href="https://kaggle.com/mahadevathani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="mahadevathani" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/https://youtube.com/@mahadevathani-f6u?feature=shared" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://youtube.com/@mahadevathani-f6u?feature=shared" height="30" width="40" /></a>
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://youtube.com/@mahadevathani-f6u?feature=shared" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/blue_vine" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="blue_vine" height="30" width="40" /></a>
 </p>
 
