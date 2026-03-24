@@ -97,62 +97,11 @@ class Mahadev:
 
 ---
 
-## 🏆 Achievements
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mahadev1729&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=4" width="100%" />
-</div>
-
----
-
 ## 📈 Contribution Graph
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=mahadev1729&bg_color=0d1117&color=58a6ff&line=58a6ff&point=bc8cff&area=true&area_color=58a6ff&hide_border=true&custom_title=Mahadev's%20Contribution%20Graph" width="100%" />
 </div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mahadev1729/mahadev1729/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mahadev1729/mahadev1729/output/github-snake.svg" />
-    <img alt="Snake animation" src="https://raw.githubusercontent.com/mahadev1729/mahadev1729/output/github-snake.svg" />
-  </picture>
-</div>
-
-<details>
-<summary>⚙️ Enable the snake — add this to <code>.github/workflows/snake.yml</code></summary>
-
-```yaml
-name: Generate Snake
-
-on:
-  schedule:
-    - cron: "0 */12 * * *"
-  workflow_dispatch:
-
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: Platane/snk/svg-only@v3
-        with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/github-snake.svg
-            dist/github-snake-dark.svg?palette=github-dark
-      - uses: crazy-max/ghaction-github-pages@v3
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-
-</details>
 
 ---
 
