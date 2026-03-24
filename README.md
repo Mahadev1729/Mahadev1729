@@ -67,10 +67,12 @@ class Mahadev:
 ### ⚙️ Backend & ML
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Flask](https://img.shields.io/badge/Flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
 ![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
 
 ### 🛠️ Tools
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
@@ -160,7 +162,6 @@ jobs:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Mahadev%20Athani-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mahadev-athani-6661b3288)
 [![Kaggle](https://img.shields.io/badge/Kaggle-mahadevathani-%2320BEFF.svg?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/mahadevathani)
-[![YouTube](https://img.shields.io/badge/YouTube-%40mahadevathani-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtube.com/@mahadevathani-f6u)
 [![HackerRank](https://img.shields.io/badge/HackerRank-blue__vine-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/blue_vine)
 [![Gmail](https://img.shields.io/badge/Gmail-mahadevathani1729-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mahadevathani1729@gmail.com)
 
