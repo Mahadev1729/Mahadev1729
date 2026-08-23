@@ -47,8 +47,7 @@ class Mahadev:
 
 </div>
 
-> **🎬 MovieGPT** — AI-powered movie discovery with GPT-enhanced semantic search and a Netflix-style UI.
-> Built with React.js · Firebase · OpenAI API · TailwindCSS · Redux Toolkit
+
 
 ---
 
