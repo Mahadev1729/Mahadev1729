@@ -64,7 +64,7 @@ A Generative AI application focused on making video content searchable and allow
 
 ---
 
-### 👨‍💻 CodeMentorAI
+### 👨‍💻 CodeBaseMentorAI
 
 **AI-powered Coding Mentor**
 
