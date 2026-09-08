@@ -1,126 +1,92 @@
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1f2e,100:58a6ff&height=200&section=header&text=Mahadev%20Athani&fontSize=50&fontColor=e6edf3&fontAlignY=38&desc=ML%20Engineer%20%7C%20Full-Stack%20Developer&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=600&lines=Hey+there%2C+I%27m+Mahadev+%F0%9F%91%8B;ML+Engineer+%26+Full-Stack+Developer;Building+AI-powered+Apps+%F0%9F%9A%80;%24+python+train.py+--epochs+100+%F0%9F%A4%96;Open+to+ML+Collaborations+%F0%9F%A4%9D" alt="Typing SVG" />
-
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=mahadev1729&label=Profile+Views&color=58a6ff&style=flat-square&labelColor=0d1117" />
-  <img src="https://img.shields.io/github/followers/mahadev1729?label=Followers&style=flat-square&color=3fb950&labelColor=0d1117" />
-  <img src="https://img.shields.io/badge/Focus-Machine%20Learning-bc8cff?style=flat-square&labelColor=0d1117" />
-  <img src="https://img.shields.io/badge/Status-Open%20to%20Collaborate-3fb950?style=flat-square&labelColor=0d1117" />
-</div>
-
----
-
 ## 🧠 About Me
 
 ```python
 class Mahadev:
     name       = "Mahadev Athani"
     role       = ["ML Engineer", "Full-Stack Developer"]
-    currently  = "🎬 Building MovieGPT (NetflixGPT)"
-    learning   = ["React.js", "Data Structures & Algorithms"]
-    collab     = "Machine Learning projects"
+    focus      = ["Generative AI", "LLMs", "RAG", "AI Agents"]
+    currently  = "🚀 Building production-ready AI applications"
+    learning   = ["LLM Engineering", "AI Agents", "System Design"]
+    collab     = "Generative AI, ML & Full-Stack projects"
     reach_me   = "mahadevathani1729@gmail.com"
-    fun_fact   = "I turn coffee ☕ + data 📊 into intelligent apps 🤖"
+    fun_fact   = "I turn coffee ☕ + data 📊 into intelligent applications 🤖"
 
     def say_hi(self):
-        print("Thanks for visiting! Let's build something amazing.")
+        print("Let's build intelligent systems together!")
 ```
 
 ---
 
-## 🚀 Featured Project
+## 🚀 Featured Projects
 
-<div align="center">
+### 🎥 [VidRAG](https://github.com/Mahadev1729/VidRAG)
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mahadev1729&repo=netflixgpt&theme=github_dark&hide_border=true&title_color=58a6ff&icon_color=58a6ff&bg_color=0d1117)](https://github.com/Mahadev1729/netflixgpt)
+> **AI-powered Video Retrieval & Question Answering System**
 
-</div>
+- Built a **Retrieval-Augmented Generation (RAG)** pipeline for video content.
+- Converts video/audio content into searchable knowledge.
+- Uses **LLMs + embeddings + vector retrieval** to answer questions from video context.
+- Designed for contextual question answering over long-form video content.
 
-
+**GenAI:** `RAG` `LLMs` `Embeddings` `Vector Search` `Prompt Engineering`
 
 ---
 
-## 💻 Tech Stack
+### 👨‍💻 [CodeMentorAI](https://github.com/Mahadev1729/CodeMentorAI)
+
+> **AI-powered Coding Mentor & Developer Assistant**
+
+- Built an AI system that helps developers understand, debug, and improve code.
+- Uses **LLMs** to generate contextual explanations and coding assistance.
+- Designed around intelligent developer interaction rather than simple chatbot responses.
+- Focused on applying GenAI to real-world software engineering workflows.
+
+**GenAI:** `LLMs` `Prompt Engineering` `AI Agents` `Code Generation` `Context Retrieval`
+
+---
+
+## 🤖 Generative AI & ML
 
 <div align="center">
 
-### 🖥️ Frontend
-![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+### 🧠 Generative AI
 
-### ⚙️ Backend & ML
+![Generative AI](https://img.shields.io/badge/Generative%20AI-8A2BE2?style=for-the-badge)
+![LLMs](https://img.shields.io/badge/LLMs-FF6F00?style=for-the-badge)
+![RAG](https://img.shields.io/badge/RAG-58A6FF?style=for-the-badge)
+![AI Agents](https://img.shields.io/badge/AI%20Agents-3FB950?style=for-the-badge)
+![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-BC8CFF?style=for-the-badge)
+![Embeddings](https://img.shields.io/badge/Embeddings-1F6FEB?style=for-the-badge)
+![Vector Databases](https://img.shields.io/badge/Vector%20Databases-8957E5?style=for-the-badge)
+![LangChain](https://img.shields.io/badge/LangChain-1C1C1C?style=for-the-badge)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![Groq](https://img.shields.io/badge/Groq-F55036?style=for-the-badge)
+
+### 🤖 Machine Learning
+
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Flask](https://img.shields.io/badge/Flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
-![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
-![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-### 🛠️ Tools
+### 🖥️ Full-Stack Development
+
+![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
+
+### 🛠️ Developer Tools
+
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-%23000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VSCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)
 
 </div>
+```
 
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mahadev1729&show_icons=true&theme=github_dark&hide_border=true&title_color=58a6ff&icon_color=bc8cff&text_color=e6edf3&bg_color=0d1117&include_all_commits=true&count_private=true" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahadev1729&layout=compact&theme=github_dark&hide_border=true&title_color=58a6ff&text_color=e6edf3&bg_color=0d1117&langs_count=8" height="180" />
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=mahadev1729&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=bc8cff&currStreakLabel=58a6ff&sideLabels=8b949e&dates=6e7681" width="60%" />
-</div>
-
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mahadev1729&bg_color=0d1117&color=58a6ff&line=58a6ff&point=bc8cff&area=true&area_color=58a6ff&hide_border=true&custom_title=Mahadev's%20Contribution%20Graph" width="100%" />
-</div>
-
----
-
-## 🌐 Connect With Me
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mahadev%20Athani-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mahadev-athani-6661b3288)
-[![Kaggle](https://img.shields.io/badge/Kaggle-mahadevathani-%2320BEFF.svg?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/mahadevathani)
-[![HackerRank](https://img.shields.io/badge/HackerRank-blue__vine-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/blue_vine)
-[![Gmail](https://img.shields.io/badge/Gmail-mahadevathani1729-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mahadevathani1729@gmail.com)
-
-</div>
-
----
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
-</div>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:58a6ff,100:0d1117&height=120&section=footer&animation=fadeIn" width="100%"/>
-</div>
